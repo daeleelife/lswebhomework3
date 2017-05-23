@@ -13,9 +13,9 @@
 
 My name is: dae
 
-I like to:
+I like to: learn new skill 
 
-I'm learning:
+I'm learning: git hub
 
 ```
 
