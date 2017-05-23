@@ -20,6 +20,7 @@ I'm learning: git hub
 ```
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
+![alt text](http://gdurl.com/AJ3Z)
 
 4. Push it up to your own repository on Github (don't try to override the original).
 
